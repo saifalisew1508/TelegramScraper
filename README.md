@@ -47,3 +47,8 @@ $ `python3 add2group.py members.csv`
 <a href="https://twitter.com/saifalisew1508"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> 
 <a href="https://facebook.com/saifalisew1508"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> 
 <a href="https://instagram.com/saifalisew1508"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+
+
+## Inspired By
+
+* [AbirHasan2005](https://github.com/AbirHasan2005/TelegramScraper)
