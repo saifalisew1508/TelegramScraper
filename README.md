@@ -52,3 +52,7 @@ $ `python3 add2group.py members.csv`
 ## Inspired By
 
 * [AbirHasan2005](https://github.com/AbirHasan2005/TelegramScraper)
+
+
+<h2 align="center">Visitors Counts👀</h2>
+<a href="https://github.com/saifalisew1508/TelegramScraper"><img alt="Cute Count" src="https://count.getloli.com/get/@TelegramScraper?theme=rule34" /></a>
